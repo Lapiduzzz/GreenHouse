@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee5d59ca.css",
+    "main.js": "/static/js/main.691b301e.js",
+    "static/media/img2.webp": "/static/media/img2.96a93737cc3e62263520.webp",
+    "static/media/img6.webp": "/static/media/img6.7905cf21de65240cdabd.webp",
+    "static/media/img4.webp": "/static/media/img4.603325797832e6efabc4.webp",
+    "static/media/img5.webp": "/static/media/img5.ec09645b317e6b9c9af7.webp",
+    "static/media/img1.webp": "/static/media/img1.b2ed5d8bab2b2c89599e.webp",
+    "static/media/img3.webp": "/static/media/img3.e5ce0fccf44e9419b976.webp",
+    "static/media/png1.png": "/static/media/png1.d9567ce73a35094146e6.png",
+    "static/media/wayfair-logo.webp": "/static/media/wayfair-logo.8bda4dbc763ce7d4e2ed.webp",
+    "static/media/Squarespace-logo.webp": "/static/media/Squarespace-logo.9ea21a7ac9553baeec8f.webp",
+    "static/media/Doordash-logo.webp": "/static/media/Doordash-logo.b621590c561aa086d5e0.webp",
+    "static/media/trivago-logo.webp": "/static/media/trivago-logo.6a03f29df7bfccacb729.webp",
+    "static/media/GitLab-logo.webp": "/static/media/GitLab-logo.70d4fd0200210494b547.webp",
+    "static/media/JD-Power-logo.webp": "/static/media/JD-Power-logo.1645fa50b0f85bfae2ce.webp",
+    "index.html": "/index.html",
+    "main.ee5d59ca.css.map": "/static/css/main.ee5d59ca.css.map",
+    "main.691b301e.js.map": "/static/js/main.691b301e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee5d59ca.css",
+    "static/js/main.691b301e.js"
+  ]
+}
