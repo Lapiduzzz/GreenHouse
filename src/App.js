@@ -97,8 +97,8 @@ function App() {
                            background={'#113228'}
                            color={'white'}
                 />
-                <Footer/>
             </main>
+            <Footer/>
         </div>
     );
 }
