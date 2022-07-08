@@ -98,8 +98,8 @@ const Footer = () =>{
                     </form>
                 </div>
             </div>
-            <p>©2022 Greenhouse Software, Inc.</p>
-            <p>“Hire for what’s next” and “Greenhouse Talent Makers” are trademarks of Greenhouse Software.</p>
+            <p className={footer.small}>©2022 Greenhouse Software, Inc.</p>
+            <p className={footer.small}>“Hire for what’s next” and “Greenhouse Talent Makers” are trademarks of Greenhouse Software.</p>
         </footer>
     )
 }

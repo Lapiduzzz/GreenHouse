@@ -51,6 +51,9 @@
     border-radius: 10px;
     height: 5vh;
 }
+.small{
+    font-size: 0.7vw;
+}
 
 @media all and (max-width: 768px) {
     .foot{
@@ -84,6 +87,10 @@
     }
     .section li{
         margin: 5px;
+    }
+
+    .small{
+        font-size: 3vw;
     }
 
 }
