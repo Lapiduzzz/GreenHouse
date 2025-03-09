@@ -30,6 +30,9 @@
       "react-app/jest"
     ]
   },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -41,8 +44,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
   }
 }

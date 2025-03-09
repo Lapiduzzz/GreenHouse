@@ -45,7 +45,7 @@ const InfoBlock = (
                 <div className={block.content} style={flDirection}>
                     <div className={block.left}>
                         <p className={block.small}>{small}</p>
-                        <h1 style={headerColor}>{header}</h1>
+                        <h2 style={headerColor}>{header}</h2>
                         <p>{text}</p>
                         {component}
                         {button}
