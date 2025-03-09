@@ -1,11 +1,9 @@
-import React, {useState} from 'react';
+import React from 'react';
 import block from '../info_block.module.css'
 
 import img1 from '../../images/img1.webp'
 import img2 from '../../images/img2.webp'
-import img3 from '../../images/img3.webp'
-import img4 from '../../images/img4.webp'
-import img5 from '../../images/img5.webp'
+
 
 const SliderButtons = ({setImage}) => {
 
